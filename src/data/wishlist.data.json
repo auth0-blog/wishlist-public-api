@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "$Du0q4FgZ",
+      "name": "Apple iPhone 12",
+      "description": "128GB, White",
+      "url": "https://www.amazon.com/dp/B08L5Q1L2Q/"
+    },
+    {
+      "id": "f6fxZp8mTZ",
+      "name": "PlayStation 5 Console",
+      "description": "Ultra-high speed SSD and 3D Audio",
+      "url": "https://www.amazon.com/PlayStation-5-Console/dp/B08FC5L3RG"
+    },
+    {
+      "id": "XuAxpj9Xbr",
+      "name": "Xbox Series S Console",
+      "description": "Smallest, sleekest Xbox console ever",
+      "url": "https://www.amazon.com/Xbox-S/dp/B08G9J44ZN"
+    }
+  ]
+}
